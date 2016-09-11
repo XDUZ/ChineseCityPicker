@@ -18,4 +18,4 @@ cityPickerView.delegate = self;
 效果图
 ---------
 
-![image](https://github.com/XDUZ/ChineseCityPicker/tree/master/cityPicker/screenImage/image1.png) 
+![image](https://github.com/XDUZ/ChineseCityPicker/raw/master/cityPicker/ScreenShots/image1.png) 
