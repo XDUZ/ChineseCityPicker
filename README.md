@@ -9,8 +9,8 @@
 
 使用
 ---------
-
-```SNSChooseCityView *cityPickerView = [[SNSChooseCityView alloc] initWithFrame:self.view.bounds];
+```
+SNSChooseCityView *cityPickerView = [[SNSChooseCityView alloc] initWithFrame:self.view.bounds];
 cityPickerView.delegate = self;
 [self.view addSubview:cityPickerView];
 [cityPickerView show];
