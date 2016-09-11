@@ -15,3 +15,7 @@ cityPickerView.delegate = self;
 [self.view addSubview:cityPickerView];
 [cityPickerView show];
 ```
+效果图
+---------
+
+![image](https://github.com/XDUZ/ChineseCityPicker/tree/master/cityPicker/screenImage/image1.png) 
